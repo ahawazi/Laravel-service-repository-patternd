@@ -1,1 +1,1 @@
-## Laravel service repository pattern
+## Laravel inertia.js service repository pattern
